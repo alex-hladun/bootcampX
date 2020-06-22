@@ -1,0 +1,1 @@
+SELECT id, name, email, cohort_id FROM student WHERE github IS null ORDER BY cohort_id;
